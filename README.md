@@ -5,6 +5,8 @@ NeuroGenesis is a deep learning project that models complex biological processes
 
 The result is a self-organizing system capable of growing a complex pattern from a single seed and autonomously restoring its structure after arbitrary damage.
 
+![Output](./output.gif)
+
 🔬 The Core Mechanism: Neural Cellular Automaton (NCA)
 ------------------------------------------------------
 
