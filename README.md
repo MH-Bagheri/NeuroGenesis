@@ -1,9 +1,6 @@
 NeuroGenesis: Self-Repairing Biological Patterns
 ================================================
 
-A PyTorch Implementation of Neural Cellular Automata (NCA) for Morphogenesis
-----------------------------------------------------------------------------
-
 NeuroGenesis is a deep learning project that models complex biological processes, specifically **morphogenesis** and **regeneration**. Instead of using a conventional neural network for static classification or generation, this project implements a **Neural Cellular Automaton (NCA)**. In this system, a small, highly localized convolutional network acts as the "DNA," providing the update rule for every cell on the grid.
 
 The result is a self-organizing system capable of growing a complex pattern from a single seed and autonomously restoring its structure after arbitrary damage.
